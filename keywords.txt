@@ -1,0 +1,7 @@
+ESP8266FTPClient KEYWORD1
+connect KEYWORD2
+uploadFile KEYWORD2
+downloadFile KEYWORD2
+deleteFile KEYWORD2
+listFiles KEYWORD2
+close KEYWORD2
